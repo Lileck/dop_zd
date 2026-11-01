@@ -1,3 +1,4 @@
+#Мирошникова о-п-923/1
 """
 Django settings for config project.
 
@@ -9,6 +10,7 @@ https://docs.djangoproject.com/en/6.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/6.1/ref/settings/
 """
+#Мирошникова о-п-923/1
 
 from pathlib import Path
 
